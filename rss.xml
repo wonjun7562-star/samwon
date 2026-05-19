@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>삼원하이테크 SAMWON HITECH</title>
+    <link>https://samwon.vercel.app/</link>
+    <atom:link href="https://samwon.vercel.app/rss.xml" rel="self" type="application/rss+xml" />
+    <description>40년 경력의 인조대리석(하이막스) 가공 전문기업. 일체형 세면대, 유치원·학교 세면대, 접수대, 배식대, 월풀욕조, 젠다이, 하부장, 대리석 책상 맞춤 제작 전문.</description>
+    <language>ko-KR</language>
+    <copyright>Copyright 삼원하이테크 All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0900</lastBuildDate>
+    <generator>SAMWON HITECH</generator>
+
+    <item>
+      <title>삼원하이테크 공식 홈페이지 오픈</title>
+      <link>https://samwon.vercel.app/</link>
+      <guid isPermaLink="true">https://samwon.vercel.app/</guid>
+      <description>삼원하이테크 공식 홈페이지가 새롭게 오픈했습니다. 40년 경력의 인조대리석(하이막스) 가공 전문기업으로, 일체형 세면대, 유치원 세면대, 학교 세면대, 접수대, 배식대, 월풀욕조, 젠다이, 하부장 등을 맞춤 제작합니다.</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>일체형 세면대 제작 라인업 안내</title>
+      <link>https://samwon.vercel.app/#products</link>
+      <guid isPermaLink="false">samwon-product-washbasin</guid>
+      <description>삼원하이테크의 일체형 세면대는 하이막스/오닉스 인조대리석 소재를 사용하여 위생적이고 견고합니다. 유치원·학교·관공서 등 시설용 세면대를 맞춤 사이즈로 제작합니다.</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0900</pubDate>
+    </item>
+
+    <item>
+      <title>월풀욕조 및 젠다이 시공 사례</title>
+      <link>https://samwon.vercel.app/#construction</link>
+      <guid isPermaLink="false">samwon-construction-bathtub</guid>
+      <description>관공서·학교·공공시설에 설치된 삼원하이테크의 실제 시공 사례입니다. 월풀욕조, 이동식 욕조, 젠다이, 접수대, 배식대 등 다양한 제품의 실물 시공 사진을 확인하세요.</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
